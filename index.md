@@ -31,7 +31,7 @@ Si quieres cotillear mis habilidades con más detalle, écha un ojo a [Skills](.
 
 ## 🧪 Aprendizaje continuo
 
-Siempre estoy en **apt update ** es decir que realizo:  
+Siempre estoy en **apt update** es decir que realizo:  
 
 - Laboratorios prácticos orientados a Blue Team  
 - CTFs
@@ -62,8 +62,10 @@ Identificación de patrones sospechosos en logs Apache.
 
 ## 📜 Certificaciones
 
-- Linux Essentials — LPI
-- BTL1 — En progreso
+- Linux Essentials
+- BTL1*
+
+> * En progreso
 
 ---
 

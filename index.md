@@ -8,12 +8,6 @@ Mis intereses técnicos se centran en el Blue Team, con el objetivo de evolucion
 > 
 Para alcanzar estas metas, estudio y me actualizo de forma continua, realizando CTFs, laboratorios prácticos y proyectos personales, además de completar certificaciones como la que actualmente estoy cursando, el BTL1, con el objetivo de ofrecer el más alto nivel técnico y estar preparado para asumir retos en un entorno SOC real.
 
-
-
-!---
-
----
-layout: default
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
@@ -135,4 +129,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+<!--
 -->

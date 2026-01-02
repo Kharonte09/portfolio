@@ -63,9 +63,7 @@ Identificación de patrones sospechosos en logs Apache.
 ## 📜 Certificaciones
 
 - Linux Essentials
-- BTL1*
-
-> * En progreso
+- BTL1 (En progreso)
 
 ---
 

@@ -23,6 +23,9 @@ Perfil orientado a la **defensa proactiva** y a la mejora continua de la postura
 
 Trabajo con herramientas y metodologías propias de entornos reales, incluyendo **SIEM, EDR y sistemas de detección**, aplicando buenas prácticas de análisis y respuesta ante incidentes.
 
+Puedes mirar mis habilidades deuna forma mas detallada en [Skills](./skills.html).
+
+
 ---
 
 ## 🧪 Aprendizaje continuo

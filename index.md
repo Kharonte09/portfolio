@@ -1,3 +1,17 @@
+# 🧠  About me
+
+> 👋 Me presento, soy David, técnico en ciberseguridad con formación en Administración de Sistemas Informáticos en Red (ASIR) y experiencia de mas de 1 año y medio como Operador de Ciberseguridad N1.
+
+
+Mis intereses técnicos se centran en el Blue Team, con el objetivo de evolucionar hacia una posición más especializada dentro de un SOC, donde pueda trabajar con herramientas avanzadas como SIEM, EDR, análisis de logs y tráfico de red, así como participar en la detección, investigación y mitigación de incidentes de seguridad.
+> Me motiva profundizar en la defensa proactiva, la automatización de procesos de monitoreo y la mejora continua de la postura de seguridad de una organización.
+> 
+Para alcanzar estas metas, estudio y me actualizo de forma continua, realizando CTFs, laboratorios prácticos y proyectos personales, además de completar certificaciones como la que actualmente estoy cursando, el BTL1, con el objetivo de ofrecer el más alto nivel técnico y estar preparado para asumir retos en un entorno SOC real.
+
+
+
+!---
+
 ---
 layout: default
 ---
@@ -121,3 +135,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->

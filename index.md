@@ -7,37 +7,38 @@ title: David | Blue Team Portfolio
 
 Técnico en ciberseguridad con formación en **Administración de Sistemas Informáticos en Red (ASIR)** y más de **1 año y medio de experiencia como Operador de Ciberseguridad N1**.
 
-Mi enfoque principal es el **Blue Team**, con el objetivo de evolucionar hacia una posición más especializada dentro de un **SOC**, participando activamente en tareas de detección, análisis e investigación de incidentes de seguridad.
+Mi enfoque principal esta en el **Blue Team**, con el objetivo de evolucionar hacia una posición más especializada dentro de un **SOC** o de un equipo que proteja los activos de las empresas, participando activamente en tareas de detección, análisis e investigación de incidentes de seguridad.
 
 ---
 
 ## 🛡️ Perfil técnico
 
-Interesado en la defensa proactiva y la mejora continua de la postura de seguridad de una organización, con especial foco en:
+Perfil orientado a la **defensa proactiva** y a la mejora continua de la postura de seguridad, con especial foco en:
 
-- Análisis de logs
-- Monitorización de eventos
-- Tráfico de red
+- Análisis y gestión de incidentes
+- Monitorización de eventos de seguridad
+- Análisis de tráfico de red
 - Detección de comportamientos anómalos
 - Automatización básica de procesos de seguridad
 
-Mi objetivo es trabajar con herramientas como **SIEM, EDR y sistemas de detección**, aplicando metodologías propias de un entorno SOC real.
+Trabajo con herramientas y metodologías propias de entornos reales, incluyendo **SIEM, EDR y sistemas de detección**, aplicando buenas prácticas de análisis y respuesta ante incidentes.
 
 ---
 
 ## 🧪 Aprendizaje continuo
 
-Me formo de manera constante mediante:
+Mantengo una formación constante a través de:
 
-- Laboratorios prácticos
-- CTFs orientados a Blue Team
+- Laboratorios prácticos orientados a Blue Team
+- CTFs
 - Proyectos personales
-- Estudio autodidacta de conceptos SOC
+- Estudio autodidacta
 
-Actualmente me encuentro cursando la certificación **BTL1 (Blue Team Level 1)**, con el objetivo de consolidar una base técnica sólida y operativa.
+Actualmente me encuentro cursando la certificación **BTL1 (Blue Team Level 1)**, con el objetivo de consolidar una base técnica sólida y alineada con entornos reales.
 
 ---
 
+<!--
 ## 📂 Proyectos
 
 ### 🔐 Detección de fuerza bruta SSH
@@ -54,16 +55,17 @@ Identificación de patrones sospechosos en logs Apache.
 **Tecnologías:** Apache, grep  
 **Enfoque:** análisis de eventos y correlación
 
----
+-->
 
 ## 📜 Certificaciones
 
 - Linux Essentials — LPI
-- BTL1 — en progreso
+- BTL1 — En progreso
 
 ---
 
 ## 📫 Contacto
 
-- GitHub: https://github.com/tuusuario
-- LinkedIn: https://linkedin.com/in/tuperfil
+- [GitHub](https://github.com/kharonte09)
+- [LinkTree](https://linktr.ee/kharonte9)
+- [Mail](mailto:kharonte9@protonmail.com)

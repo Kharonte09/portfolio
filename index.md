@@ -3,7 +3,9 @@ layout: default
 title: David | Blue Team Portfolio
 ---
 
-# 👋 David — Ciberseguridad / Blue Team
+# 👋 ¿Quien soy?
+
+Buenas, soy David o Kharonte y este es mi pequeño espacio para ubicar mi portfolio y proyectos que puean ser de utilidad.
 
 Técnico en ciberseguridad con formación en **Administración de Sistemas Informáticos en Red (ASIR)** y más de **1 año y medio de experiencia como Operador de Ciberseguridad N1**.
 
@@ -13,33 +15,31 @@ Mi enfoque principal esta en el **Blue Team**, con el objetivo de evolucionar ha
 
 ## 🛡️ Perfil técnico
 
-Perfil orientado a la **defensa proactiva** y a la mejora continua de la postura de seguridad, con especial foco en:
+Me dedico a la **defensa proactiva**, que en la práctica significa que me encanta toquetear cosas como:  
 
-- Análisis y gestión de incidentes
-- Monitorización de eventos de seguridad
-- Análisis de tráfico de red
-- Detección de comportamientos anómalos
-- Automatización básica de procesos de seguridad
+- Análisis y gestión de incidentes  
+- Monitorización de eventos de seguridad  
+- Análisis de tráfico de red  
+- Detección de comportamientos anomalos  
+- Automatización básica de tareas de seguridad  
 
-Trabajo con herramientas y metodologías propias de entornos reales, incluyendo **SIEM, EDR y sistemas de detección**, aplicando buenas prácticas de análisis y respuesta ante incidentes.
+Trabajo con herramientas y metodologías de entornos reales, desde **SIEM y EDR** hasta sistemas de detección, aplicando buenas prácticas para analizar y responder a incidentes.
 
-Puedes mirar mis habilidades deuna forma mas detallada en [Skills](./skills.html).
-
+Si quieres cotillear mis habilidades con más detalle, écha un ojo a [Skills](./skills.html).  
 
 ---
 
 ## 🧪 Aprendizaje continuo
 
-Mantengo una formación constante a través de:
+Siempre estoy en **apt update ** es decir que realizo:  
 
-- Laboratorios prácticos orientados a Blue Team
+- Laboratorios prácticos orientados a Blue Team  
 - CTFs
-- Proyectos personales
-- Estudio autodidacta
+- Proyectos personales  
+- Estudio autodidacta  
 
-Actualmente me encuentro cursando la certificación **BTL1 (Blue Team Level 1)**, con el objetivo de consolidar una base técnica sólida y alineada con entornos reales.
+Ahora mismo estoy dándole caña a la certificación **BTL1 (Blue Team Level 1)**, para reforzar mi base técnica.
 
----
 
 <!--
 ## 📂 Proyectos

@@ -5,7 +5,7 @@ title: David | Blue Team Portfolio
 
 # 👋 ¿Quien soy?
 
-Buenas, soy David o Kharonte y este es mi pequeño espacio para ubicar mi portfolio y proyectos que puean ser de utilidad.
+Buenas, soy David o Kharonte y este es mi pequeño espacio para ubicar mi portfolio y proyectos que puedan ser de utilidad.
 
 Técnico en ciberseguridad con formación en **Administración de Sistemas Informáticos en Red (ASIR)** y más de **1 año y medio de experiencia como Operador de Ciberseguridad N1**.
 

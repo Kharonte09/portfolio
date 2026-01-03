@@ -24,7 +24,7 @@ Me dedico a la defensa proactiva, que en la práctica significa que disfruto tra
 
 Trabajo con herramientas y metodologías propias de entornos reales, desde SIEM y EDR hasta sistemas de detección, aplicando buenas prácticas para el análisis y la respuesta ante incidentes.
 
-Si quieres ver mis habilidades con más detalle: **cd [Skills**](./skills.html).  
+Si quieres ver mis habilidades con más detalle: **cd [Skills](./skills.html)**  
 
 ---
 

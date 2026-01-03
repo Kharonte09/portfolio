@@ -35,6 +35,7 @@ Siempre estoy en modo **apt update**, es decir, manteniéndome en constante apre
 - CTFs
 - Proyectos personales
 - Estudio autodidacta
+
 Actualmente estoy preparándome para la certificación **BTL1** (Blue Team Level 1), con el objetivo de reforzar mi base técnica y mis capacidades defensivas.
 
 

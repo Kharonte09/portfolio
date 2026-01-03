@@ -1,6 +1,6 @@
 ---
 layout: default
-title: David | Blue Team Portfolio
+title: David | Portfolio
 ---
 
 # 👋 ¿Quién soy?
